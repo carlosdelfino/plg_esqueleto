@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE install
   PUBLIC "-//Joomla! 1.5//DTD plugin 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/plugin-install.dtd">
-<install version="1.5" type="plugin" group="group">
+<install version="1.5" type="plugin" group="authentication">
 	<name>Esqueleto de Plugin para Exemplo</name>
 	<creationDate>Dezembro de 2010</creationDate>
 	<author>Carlos Delfino</author>
